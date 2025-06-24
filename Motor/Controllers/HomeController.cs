@@ -14,6 +14,7 @@ namespace Motor.Controllers
         }
 
         public IActionResult Index()
+            //Uygulama çekirdegi geliştirildi
         {
             return View();
         }
